@@ -59,20 +59,22 @@ def sortByCategory():
                 for row in reader:
                      if len(row)>=3:
                           date,amount,category,description=row
-                          expensebycategory_list[category].append(date)
                           expensebycategory_list[category].append(float(amount))
-                          expensebycategory_list[category].append(description)
                 for category in expensebycategory_list:
                      print(date,amount)
-                     total=+float(amount)
+                     total={category:sum(expensebycategory_list[category] )for category in expensebycategory_list}
                      print("the total amount spent in ",category,"is",total)
-        plt.bar(category,[expensebycategory_list[category] for category in expensebycategory_list])
-        plt.figure(fig=(10,5))
-        plt.xlabel(category)
+        categories = list(expensebycategory_list.keys())
+        totals = list(expensebycategory_list.values())
+
+        plt.figure(figsize=(10,5))
+        plt.bar(categories, totals, color='mediumseagreen', edgecolor='black')
+        plt.xlabel("Category")
+        plt.ylabel("Total Spend (₹)")
+        plt.title("📊 Total Spend by Category")
         plt.xticks(rotation=45)
         plt.tight_layout()
-        plt.show()
-              
+        plt.show()      
     except FileNotFoundError:
            print("No expenses or file found yet.")
 
