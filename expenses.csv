@@ -1,2 +1,1449 @@
-"10/04/25,19:23:41",100.0,d,as
-
+Date,Amount,Category,Description
+"28/04/24,10:00:00",120.24,Health,Lunch
+"28/04/24,10:00:00",236.65,Food,Gift
+"28/04/24,10:00:00",248.36,Health,Bus fare
+"29/04/24,10:00:00",492.36,Health,Bus fare
+"29/04/24,10:00:00",214.62,Food,Doctor visit
+"29/04/24,10:00:00",324.97,Health,Lunch
+"30/04/24,10:00:00",391.45,Utilities,Bus fare
+"30/04/24,10:00:00",328.82,Misc,Electricity bill
+"01/05/24,10:00:00",488.82,Food,Doctor visit
+"02/05/24,10:00:00",140.91,Education,Doctor visit
+"03/05/24,10:00:00",286.64,Misc,Gift
+"04/05/24,10:00:00",316.5,Entertainment,Movie
+"04/05/24,10:00:00",183.72,Entertainment,Books
+"04/05/24,10:00:00",114.84,Health,Movie
+"05/05/24,10:00:00",76.16,Misc,Bus fare
+"05/05/24,10:00:00",193.75,Health,Doctor visit
+"05/05/24,10:00:00",101.63,Health,Books
+"06/05/24,10:00:00",440.69,Food,Lunch
+"06/05/24,10:00:00",48.28,Food,Electricity bill
+"06/05/24,10:00:00",488.06,Health,Books
+"07/05/24,10:00:00",231.14,Health,Books
+"07/05/24,10:00:00",39.0,Education,Lunch
+"07/05/24,10:00:00",414.64,Entertainment,Electricity bill
+"08/05/24,10:00:00",289.72,Education,Lunch
+"08/05/24,10:00:00",447.95,Misc,Doctor visit
+"09/05/24,10:00:00",292.36,Health,Bus fare
+"09/05/24,10:00:00",125.28,Health,Doctor visit
+"10/05/24,10:00:00",362.74,Utilities,Electricity bill
+"10/05/24,10:00:00",237.35,Utilities,Books
+"10/05/24,10:00:00",19.24,Health,Gift
+"11/05/24,10:00:00",179.24,Utilities,Electricity bill
+"12/05/24,10:00:00",417.61,Transport,Movie
+"12/05/24,10:00:00",65.8,Misc,Lunch
+"13/05/24,10:00:00",105.78,Entertainment,Lunch
+"13/05/24,10:00:00",85.65,Misc,Doctor visit
+"13/05/24,10:00:00",247.49,Health,Electricity bill
+"14/05/24,10:00:00",210.41,Education,Gift
+"14/05/24,10:00:00",215.31,Misc,Gift
+"15/05/24,10:00:00",205.56,Utilities,Movie
+"16/05/24,10:00:00",308.91,Misc,Bus fare
+"17/05/24,10:00:00",454.64,Food,Movie
+"17/05/24,10:00:00",173.09,Misc,Movie
+"18/05/24,10:00:00",41.05,Utilities,Books
+"19/05/24,10:00:00",344.15,Food,Books
+"20/05/24,10:00:00",78.65,Entertainment,Lunch
+"21/05/24,10:00:00",332.35,Utilities,Bus fare
+"21/05/24,10:00:00",310.32,Transport,Bus fare
+"21/05/24,10:00:00",240.02,Entertainment,Movie
+"22/05/24,10:00:00",345.02,Misc,Doctor visit
+"23/05/24,10:00:00",293.45,Food,Books
+"23/05/24,10:00:00",203.5,Food,Movie
+"24/05/24,10:00:00",445.59,Food,Electricity bill
+"24/05/24,10:00:00",51.7,Misc,Electricity bill
+"25/05/24,10:00:00",167.16,Transport,Electricity bill
+"25/05/24,10:00:00",487.26,Misc,Gift
+"26/05/24,10:00:00",135.1,Misc,Electricity bill
+"27/05/24,10:00:00",453.8,Food,Electricity bill
+"27/05/24,10:00:00",250.25,Food,Lunch
+"28/05/24,10:00:00",39.75,Entertainment,Books
+"28/05/24,10:00:00",96.76,Education,Books
+"28/05/24,10:00:00",377.09,Education,Bus fare
+"29/05/24,10:00:00",420.01,Utilities,Electricity bill
+"29/05/24,10:00:00",111.74,Entertainment,Electricity bill
+"30/05/24,10:00:00",282.55,Misc,Bus fare
+"31/05/24,10:00:00",438.69,Misc,Doctor visit
+"01/06/24,10:00:00",133.96,Misc,Bus fare
+"02/06/24,10:00:00",485.16,Education,Bus fare
+"02/06/24,10:00:00",177.62,Misc,Bus fare
+"02/06/24,10:00:00",223.33,Education,Lunch
+"03/06/24,10:00:00",53.11,Transport,Electricity bill
+"04/06/24,10:00:00",82.75,Food,Doctor visit
+"05/06/24,10:00:00",455.27,Entertainment,Bus fare
+"05/06/24,10:00:00",225.23,Entertainment,Electricity bill
+"05/06/24,10:00:00",233.01,Utilities,Lunch
+"06/06/24,10:00:00",275.89,Health,Gift
+"07/06/24,10:00:00",61.43,Misc,Bus fare
+"07/06/24,10:00:00",345.78,Food,Books
+"08/06/24,10:00:00",32.5,Entertainment,Books
+"08/06/24,10:00:00",41.92,Food,Bus fare
+"09/06/24,10:00:00",57.16,Health,Movie
+"10/06/24,10:00:00",345.25,Transport,Gift
+"10/06/24,10:00:00",281.35,Education,Gift
+"11/06/24,10:00:00",10.74,Transport,Doctor visit
+"11/06/24,10:00:00",379.36,Food,Bus fare
+"12/06/24,10:00:00",381.83,Utilities,Bus fare
+"13/06/24,10:00:00",50.23,Food,Electricity bill
+"13/06/24,10:00:00",360.43,Education,Electricity bill
+"13/06/24,10:00:00",135.24,Health,Lunch
+"14/06/24,10:00:00",201.6,Transport,Books
+"15/06/24,10:00:00",82.18,Food,Lunch
+"15/06/24,10:00:00",346.27,Entertainment,Gift
+"15/06/24,10:00:00",481.15,Utilities,Lunch
+"16/06/24,10:00:00",78.32,Utilities,Movie
+"16/06/24,10:00:00",44.82,Entertainment,Books
+"17/06/24,10:00:00",176.4,Education,Bus fare
+"18/06/24,10:00:00",285.98,Entertainment,Books
+"18/06/24,10:00:00",84.23,Health,Bus fare
+"18/06/24,10:00:00",68.98,Misc,Bus fare
+"19/06/24,10:00:00",106.14,Entertainment,Electricity bill
+"19/06/24,10:00:00",19.97,Entertainment,Lunch
+"19/06/24,10:00:00",179.71,Food,Gift
+"20/06/24,10:00:00",235.09,Utilities,Movie
+"21/06/24,10:00:00",263.26,Health,Doctor visit
+"21/06/24,10:00:00",290.39,Education,Gift
+"21/06/24,10:00:00",376.7,Health,Books
+"22/06/24,10:00:00",293.67,Utilities,Gift
+"22/06/24,10:00:00",69.04,Entertainment,Electricity bill
+"23/06/24,10:00:00",410.16,Education,Bus fare
+"24/06/24,10:00:00",356.43,Food,Gift
+"25/06/24,10:00:00",395.34,Health,Electricity bill
+"26/06/24,10:00:00",235.89,Utilities,Lunch
+"26/06/24,10:00:00",400.12,Education,Gift
+"26/06/24,10:00:00",301.29,Health,Lunch
+"27/06/24,10:00:00",396.03,Transport,Books
+"27/06/24,10:00:00",100.55,Entertainment,Gift
+"28/06/24,10:00:00",289.77,Food,Bus fare
+"29/06/24,10:00:00",188.31,Transport,Bus fare
+"30/06/24,10:00:00",314.52,Entertainment,Lunch
+"01/07/24,10:00:00",358.72,Transport,Doctor visit
+"02/07/24,10:00:00",290.38,Education,Books
+"03/07/24,10:00:00",54.78,Education,Doctor visit
+"03/07/24,10:00:00",357.18,Food,Bus fare
+"03/07/24,10:00:00",73.51,Health,Movie
+"04/07/24,10:00:00",483.05,Utilities,Gift
+"04/07/24,10:00:00",368.86,Entertainment,Gift
+"05/07/24,10:00:00",377.97,Entertainment,Electricity bill
+"05/07/24,10:00:00",364.84,Health,Gift
+"05/07/24,10:00:00",133.45,Food,Doctor visit
+"06/07/24,10:00:00",40.68,Entertainment,Lunch
+"06/07/24,10:00:00",82.2,Health,Electricity bill
+"06/07/24,10:00:00",322.46,Transport,Bus fare
+"07/07/24,10:00:00",224.25,Food,Lunch
+"07/07/24,10:00:00",308.61,Transport,Lunch
+"08/07/24,10:00:00",112.35,Food,Doctor visit
+"08/07/24,10:00:00",29.6,Utilities,Doctor visit
+"08/07/24,10:00:00",431.33,Health,Movie
+"09/07/24,10:00:00",419.81,Entertainment,Electricity bill
+"10/07/24,10:00:00",265.67,Food,Electricity bill
+"10/07/24,10:00:00",306.8,Health,Bus fare
+"10/07/24,10:00:00",281.26,Food,Electricity bill
+"11/07/24,10:00:00",286.48,Misc,Doctor visit
+"11/07/24,10:00:00",407.87,Health,Gift
+"11/07/24,10:00:00",47.85,Health,Lunch
+"12/07/24,10:00:00",481.95,Transport,Doctor visit
+"12/07/24,10:00:00",321.76,Misc,Lunch
+"12/07/24,10:00:00",91.37,Health,Gift
+"13/07/24,10:00:00",275.13,Food,Books
+"13/07/24,10:00:00",288.97,Health,Gift
+"14/07/24,10:00:00",135.64,Entertainment,Lunch
+"14/07/24,10:00:00",178.43,Transport,Movie
+"14/07/24,10:00:00",213.37,Entertainment,Lunch
+"15/07/24,10:00:00",294.66,Entertainment,Lunch
+"16/07/24,10:00:00",193.83,Transport,Lunch
+"16/07/24,10:00:00",181.34,Education,Lunch
+"16/07/24,10:00:00",409.52,Food,Books
+"17/07/24,10:00:00",435.0,Transport,Lunch
+"17/07/24,10:00:00",134.35,Health,Electricity bill
+"17/07/24,10:00:00",446.77,Entertainment,Doctor visit
+"18/07/24,10:00:00",81.26,Education,Books
+"18/07/24,10:00:00",386.97,Health,Doctor visit
+"18/07/24,10:00:00",443.25,Entertainment,Movie
+"19/07/24,10:00:00",146.0,Misc,Doctor visit
+"20/07/24,10:00:00",440.87,Education,Gift
+"20/07/24,10:00:00",361.12,Entertainment,Gift
+"20/07/24,10:00:00",297.28,Utilities,Lunch
+"21/07/24,10:00:00",287.54,Education,Lunch
+"22/07/24,10:00:00",165.73,Entertainment,Movie
+"22/07/24,10:00:00",433.62,Health,Doctor visit
+"23/07/24,10:00:00",76.13,Education,Bus fare
+"24/07/24,10:00:00",331.41,Entertainment,Books
+"24/07/24,10:00:00",183.93,Misc,Books
+"25/07/24,10:00:00",427.74,Health,Lunch
+"25/07/24,10:00:00",487.1,Utilities,Gift
+"25/07/24,10:00:00",380.43,Entertainment,Books
+"26/07/24,10:00:00",273.57,Food,Movie
+"26/07/24,10:00:00",76.42,Utilities,Books
+"27/07/24,10:00:00",92.2,Education,Electricity bill
+"27/07/24,10:00:00",203.09,Education,Lunch
+"27/07/24,10:00:00",144.64,Food,Gift
+"28/07/24,10:00:00",13.91,Misc,Bus fare
+"28/07/24,10:00:00",204.22,Transport,Movie
+"28/07/24,10:00:00",187.71,Entertainment,Gift
+"29/07/24,10:00:00",355.26,Utilities,Movie
+"29/07/24,10:00:00",190.1,Misc,Electricity bill
+"30/07/24,10:00:00",370.92,Misc,Electricity bill
+"30/07/24,10:00:00",451.79,Food,Movie
+"30/07/24,10:00:00",252.14,Food,Gift
+"31/07/24,10:00:00",426.73,Food,Movie
+"31/07/24,10:00:00",260.25,Entertainment,Movie
+"31/07/24,10:00:00",353.19,Transport,Books
+"01/08/24,10:00:00",106.97,Food,Lunch
+"02/08/24,10:00:00",143.19,Utilities,Lunch
+"02/08/24,10:00:00",297.33,Education,Electricity bill
+"03/08/24,10:00:00",227.0,Entertainment,Gift
+"03/08/24,10:00:00",199.19,Food,Books
+"03/08/24,10:00:00",367.08,Education,Books
+"04/08/24,10:00:00",426.91,Transport,Books
+"04/08/24,10:00:00",109.61,Misc,Bus fare
+"05/08/24,10:00:00",245.39,Misc,Electricity bill
+"05/08/24,10:00:00",460.3,Misc,Lunch
+"05/08/24,10:00:00",345.52,Utilities,Electricity bill
+"06/08/24,10:00:00",166.74,Misc,Lunch
+"07/08/24,10:00:00",187.04,Misc,Movie
+"08/08/24,10:00:00",374.5,Transport,Lunch
+"08/08/24,10:00:00",418.19,Misc,Electricity bill
+"08/08/24,10:00:00",404.88,Entertainment,Electricity bill
+"09/08/24,10:00:00",54.3,Entertainment,Gift
+"10/08/24,10:00:00",437.17,Education,Books
+"10/08/24,10:00:00",78.22,Transport,Movie
+"10/08/24,10:00:00",343.52,Misc,Gift
+"11/08/24,10:00:00",396.69,Food,Books
+"11/08/24,10:00:00",408.27,Transport,Movie
+"11/08/24,10:00:00",158.95,Health,Books
+"12/08/24,10:00:00",443.03,Transport,Gift
+"13/08/24,10:00:00",151.79,Food,Doctor visit
+"13/08/24,10:00:00",33.2,Misc,Bus fare
+"13/08/24,10:00:00",228.95,Misc,Gift
+"14/08/24,10:00:00",269.51,Health,Doctor visit
+"15/08/24,10:00:00",362.22,Utilities,Books
+"15/08/24,10:00:00",38.17,Education,Gift
+"16/08/24,10:00:00",496.55,Health,Doctor visit
+"17/08/24,10:00:00",267.46,Food,Doctor visit
+"17/08/24,10:00:00",471.75,Education,Gift
+"18/08/24,10:00:00",30.62,Food,Bus fare
+"19/08/24,10:00:00",273.29,Transport,Gift
+"19/08/24,10:00:00",389.14,Education,Movie
+"20/08/24,10:00:00",247.8,Health,Books
+"21/08/24,10:00:00",462.16,Utilities,Electricity bill
+"21/08/24,10:00:00",469.24,Transport,Doctor visit
+"21/08/24,10:00:00",402.64,Education,Electricity bill
+"22/08/24,10:00:00",383.38,Transport,Gift
+"22/08/24,10:00:00",245.59,Transport,Movie
+"22/08/24,10:00:00",373.55,Entertainment,Lunch
+"23/08/24,10:00:00",179.46,Transport,Gift
+"23/08/24,10:00:00",162.52,Education,Electricity bill
+"24/08/24,10:00:00",64.73,Food,Doctor visit
+"24/08/24,10:00:00",421.2,Transport,Movie
+"24/08/24,10:00:00",414.12,Education,Doctor visit
+"25/08/24,10:00:00",32.84,Food,Gift
+"25/08/24,10:00:00",52.22,Transport,Lunch
+"26/08/24,10:00:00",485.78,Utilities,Gift
+"26/08/24,10:00:00",103.42,Health,Gift
+"26/08/24,10:00:00",175.7,Transport,Electricity bill
+"27/08/24,10:00:00",475.35,Education,Bus fare
+"27/08/24,10:00:00",277.85,Entertainment,Doctor visit
+"27/08/24,10:00:00",351.33,Entertainment,Movie
+"28/08/24,10:00:00",445.52,Misc,Movie
+"29/08/24,10:00:00",321.64,Transport,Electricity bill
+"29/08/24,10:00:00",469.65,Utilities,Lunch
+"29/08/24,10:00:00",205.47,Entertainment,Gift
+"30/08/24,10:00:00",254.8,Utilities,Books
+"30/08/24,10:00:00",275.43,Entertainment,Bus fare
+"30/08/24,10:00:00",402.63,Education,Movie
+"31/08/24,10:00:00",72.25,Education,Doctor visit
+"31/08/24,10:00:00",368.5,Entertainment,Gift
+"01/09/24,10:00:00",189.42,Health,Gift
+"01/09/24,10:00:00",183.81,Education,Movie
+"01/09/24,10:00:00",494.58,Health,Electricity bill
+"02/09/24,10:00:00",350.88,Food,Doctor visit
+"02/09/24,10:00:00",112.14,Transport,Movie
+"03/09/24,10:00:00",263.17,Health,Movie
+"03/09/24,10:00:00",89.01,Misc,Lunch
+"03/09/24,10:00:00",253.3,Misc,Gift
+"04/09/24,10:00:00",37.76,Transport,Movie
+"05/09/24,10:00:00",213.99,Education,Movie
+"05/09/24,10:00:00",393.16,Utilities,Books
+"06/09/24,10:00:00",327.69,Entertainment,Electricity bill
+"06/09/24,10:00:00",267.87,Transport,Lunch
+"06/09/24,10:00:00",222.5,Misc,Doctor visit
+"07/09/24,10:00:00",92.3,Transport,Books
+"07/09/24,10:00:00",68.5,Transport,Lunch
+"08/09/24,10:00:00",247.38,Health,Movie
+"08/09/24,10:00:00",127.98,Transport,Gift
+"09/09/24,10:00:00",406.56,Misc,Doctor visit
+"09/09/24,10:00:00",371.12,Health,Doctor visit
+"09/09/24,10:00:00",126.79,Food,Bus fare
+"10/09/24,10:00:00",20.32,Misc,Doctor visit
+"10/09/24,10:00:00",318.85,Transport,Lunch
+"11/09/24,10:00:00",182.65,Food,Doctor visit
+"11/09/24,10:00:00",20.53,Health,Lunch
+"11/09/24,10:00:00",255.47,Entertainment,Electricity bill
+"12/09/24,10:00:00",97.23,Health,Books
+"12/09/24,10:00:00",241.67,Transport,Doctor visit
+"12/09/24,10:00:00",451.0,Health,Movie
+"13/09/24,10:00:00",492.13,Entertainment,Bus fare
+"13/09/24,10:00:00",37.17,Health,Movie
+"14/09/24,10:00:00",313.25,Transport,Books
+"14/09/24,10:00:00",293.16,Utilities,Movie
+"14/09/24,10:00:00",336.16,Misc,Gift
+"15/09/24,10:00:00",161.76,Food,Electricity bill
+"15/09/24,10:00:00",410.49,Health,Doctor visit
+"15/09/24,10:00:00",50.42,Transport,Gift
+"16/09/24,10:00:00",223.69,Utilities,Gift
+"16/09/24,10:00:00",94.47,Misc,Doctor visit
+"17/09/24,10:00:00",201.19,Education,Gift
+"18/09/24,10:00:00",482.68,Food,Doctor visit
+"18/09/24,10:00:00",54.38,Education,Books
+"18/09/24,10:00:00",51.95,Health,Bus fare
+"19/09/24,10:00:00",73.03,Health,Movie
+"20/09/24,10:00:00",274.74,Utilities,Movie
+"20/09/24,10:00:00",450.3,Food,Books
+"21/09/24,10:00:00",137.75,Health,Doctor visit
+"21/09/24,10:00:00",99.29,Utilities,Lunch
+"22/09/24,10:00:00",467.12,Education,Electricity bill
+"22/09/24,10:00:00",184.24,Misc,Gift
+"22/09/24,10:00:00",21.58,Entertainment,Doctor visit
+"23/09/24,10:00:00",205.12,Misc,Lunch
+"23/09/24,10:00:00",124.12,Education,Gift
+"24/09/24,10:00:00",19.99,Health,Bus fare
+"25/09/24,10:00:00",54.44,Health,Lunch
+"26/09/24,10:00:00",478.35,Misc,Lunch
+"27/09/24,10:00:00",249.64,Entertainment,Doctor visit
+"27/09/24,10:00:00",359.18,Misc,Movie
+"28/09/24,10:00:00",185.93,Transport,Movie
+"29/09/24,10:00:00",371.15,Misc,Doctor visit
+"29/09/24,10:00:00",112.27,Entertainment,Movie
+"29/09/24,10:00:00",258.71,Food,Doctor visit
+"30/09/24,10:00:00",379.42,Education,Doctor visit
+"01/10/24,10:00:00",258.72,Education,Bus fare
+"01/10/24,10:00:00",451.23,Health,Electricity bill
+"01/10/24,10:00:00",356.32,Entertainment,Bus fare
+"02/10/24,10:00:00",118.58,Entertainment,Bus fare
+"03/10/24,10:00:00",235.42,Transport,Lunch
+"04/10/24,10:00:00",329.39,Transport,Gift
+"04/10/24,10:00:00",177.46,Misc,Doctor visit
+"04/10/24,10:00:00",91.57,Utilities,Movie
+"05/10/24,10:00:00",56.48,Utilities,Doctor visit
+"06/10/24,10:00:00",142.5,Entertainment,Lunch
+"07/10/24,10:00:00",156.02,Health,Books
+"08/10/24,10:00:00",348.94,Health,Movie
+"08/10/24,10:00:00",329.26,Transport,Bus fare
+"09/10/24,10:00:00",425.66,Food,Gift
+"10/10/24,10:00:00",455.58,Entertainment,Books
+"11/10/24,10:00:00",53.16,Misc,Gift
+"11/10/24,10:00:00",361.75,Health,Doctor visit
+"11/10/24,10:00:00",272.89,Health,Electricity bill
+"12/10/24,10:00:00",128.38,Health,Bus fare
+"13/10/24,10:00:00",337.53,Misc,Books
+"14/10/24,10:00:00",99.36,Entertainment,Movie
+"14/10/24,10:00:00",256.26,Food,Lunch
+"15/10/24,10:00:00",361.4,Utilities,Electricity bill
+"16/10/24,10:00:00",259.21,Misc,Electricity bill
+"16/10/24,10:00:00",56.11,Misc,Doctor visit
+"16/10/24,10:00:00",341.22,Transport,Bus fare
+"17/10/24,10:00:00",239.6,Transport,Bus fare
+"17/10/24,10:00:00",484.91,Misc,Electricity bill
+"18/10/24,10:00:00",301.02,Health,Gift
+"18/10/24,10:00:00",483.95,Health,Electricity bill
+"19/10/24,10:00:00",477.91,Education,Movie
+"20/10/24,10:00:00",432.17,Transport,Movie
+"20/10/24,10:00:00",425.89,Transport,Movie
+"21/10/24,10:00:00",174.06,Food,Gift
+"22/10/24,10:00:00",355.34,Utilities,Doctor visit
+"23/10/24,10:00:00",182.34,Education,Doctor visit
+"23/10/24,10:00:00",11.81,Education,Lunch
+"23/10/24,10:00:00",47.79,Education,Gift
+"24/10/24,10:00:00",312.75,Food,Books
+"25/10/24,10:00:00",438.26,Education,Movie
+"26/10/24,10:00:00",237.3,Transport,Bus fare
+"27/10/24,10:00:00",346.72,Utilities,Doctor visit
+"28/10/24,10:00:00",477.55,Education,Lunch
+"28/10/24,10:00:00",39.15,Transport,Movie
+"28/10/24,10:00:00",325.62,Food,Electricity bill
+"29/10/24,10:00:00",106.73,Utilities,Electricity bill
+"29/10/24,10:00:00",346.32,Misc,Movie
+"30/10/24,10:00:00",41.26,Education,Books
+"30/10/24,10:00:00",136.32,Education,Electricity bill
+"30/10/24,10:00:00",24.41,Transport,Electricity bill
+"31/10/24,10:00:00",33.34,Entertainment,Bus fare
+"31/10/24,10:00:00",380.7,Education,Gift
+"31/10/24,10:00:00",229.62,Transport,Doctor visit
+"01/11/24,10:00:00",231.77,Food,Gift
+"02/11/24,10:00:00",301.25,Utilities,Gift
+"02/11/24,10:00:00",311.13,Health,Movie
+"02/11/24,10:00:00",358.31,Entertainment,Doctor visit
+"03/11/24,10:00:00",362.97,Entertainment,Bus fare
+"03/11/24,10:00:00",182.04,Education,Books
+"04/11/24,10:00:00",491.11,Education,Movie
+"04/11/24,10:00:00",370.49,Transport,Bus fare
+"05/11/24,10:00:00",51.92,Entertainment,Bus fare
+"05/11/24,10:00:00",466.92,Entertainment,Lunch
+"05/11/24,10:00:00",23.75,Misc,Gift
+"06/11/24,10:00:00",434.23,Misc,Bus fare
+"06/11/24,10:00:00",397.34,Food,Movie
+"07/11/24,10:00:00",258.53,Utilities,Lunch
+"07/11/24,10:00:00",137.55,Food,Movie
+"08/11/24,10:00:00",449.61,Entertainment,Gift
+"08/11/24,10:00:00",392.81,Health,Books
+"09/11/24,10:00:00",63.35,Entertainment,Lunch
+"09/11/24,10:00:00",224.09,Food,Bus fare
+"09/11/24,10:00:00",93.65,Health,Movie
+"10/11/24,10:00:00",429.91,Utilities,Gift
+"10/11/24,10:00:00",79.55,Education,Electricity bill
+"11/11/24,10:00:00",220.77,Health,Movie
+"11/11/24,10:00:00",413.49,Transport,Lunch
+"11/11/24,10:00:00",434.02,Entertainment,Movie
+"12/11/24,10:00:00",109.1,Health,Doctor visit
+"12/11/24,10:00:00",122.08,Education,Gift
+"13/11/24,10:00:00",270.53,Food,Gift
+"14/11/24,10:00:00",142.35,Entertainment,Books
+"14/11/24,10:00:00",463.27,Health,Bus fare
+"15/11/24,10:00:00",112.34,Food,Movie
+"16/11/24,10:00:00",201.96,Health,Bus fare
+"16/11/24,10:00:00",53.89,Health,Gift
+"16/11/24,10:00:00",146.09,Food,Doctor visit
+"17/11/24,10:00:00",468.16,Transport,Doctor visit
+"18/11/24,10:00:00",157.02,Entertainment,Gift
+"19/11/24,10:00:00",200.49,Utilities,Gift
+"19/11/24,10:00:00",214.21,Transport,Electricity bill
+"20/11/24,10:00:00",306.03,Misc,Bus fare
+"20/11/24,10:00:00",87.85,Utilities,Doctor visit
+"21/11/24,10:00:00",380.09,Education,Bus fare
+"21/11/24,10:00:00",398.15,Education,Electricity bill
+"22/11/24,10:00:00",101.18,Health,Books
+"23/11/24,10:00:00",459.52,Health,Gift
+"23/11/24,10:00:00",48.03,Entertainment,Lunch
+"24/11/24,10:00:00",486.62,Entertainment,Movie
+"24/11/24,10:00:00",132.11,Entertainment,Doctor visit
+"25/11/24,10:00:00",295.89,Misc,Books
+"25/11/24,10:00:00",64.84,Education,Books
+"26/11/24,10:00:00",161.5,Misc,Bus fare
+"26/11/24,10:00:00",57.42,Misc,Bus fare
+"27/11/24,10:00:00",170.01,Transport,Books
+"27/11/24,10:00:00",173.79,Food,Movie
+"28/11/24,10:00:00",207.59,Transport,Lunch
+"28/11/24,10:00:00",459.38,Misc,Books
+"29/11/24,10:00:00",182.06,Misc,Movie
+"29/11/24,10:00:00",247.33,Education,Gift
+"30/11/24,10:00:00",324.94,Education,Bus fare
+"01/12/24,10:00:00",34.44,Utilities,Books
+"01/12/24,10:00:00",407.58,Food,Books
+"01/12/24,10:00:00",390.24,Utilities,Books
+"02/12/24,10:00:00",54.89,Transport,Lunch
+"02/12/24,10:00:00",394.36,Entertainment,Bus fare
+"02/12/24,10:00:00",87.34,Food,Lunch
+"03/12/24,10:00:00",424.77,Transport,Doctor visit
+"03/12/24,10:00:00",411.19,Misc,Gift
+"04/12/24,10:00:00",264.81,Transport,Doctor visit
+"05/12/24,10:00:00",442.38,Misc,Gift
+"05/12/24,10:00:00",258.3,Utilities,Lunch
+"06/12/24,10:00:00",221.2,Education,Electricity bill
+"07/12/24,10:00:00",320.45,Misc,Books
+"08/12/24,10:00:00",55.85,Food,Electricity bill
+"08/12/24,10:00:00",11.39,Transport,Bus fare
+"09/12/24,10:00:00",175.9,Utilities,Books
+"09/12/24,10:00:00",304.0,Food,Doctor visit
+"10/12/24,10:00:00",159.01,Health,Lunch
+"10/12/24,10:00:00",333.05,Food,Movie
+"11/12/24,10:00:00",220.42,Health,Bus fare
+"11/12/24,10:00:00",15.15,Entertainment,Gift
+"12/12/24,10:00:00",51.04,Food,Movie
+"12/12/24,10:00:00",105.61,Entertainment,Lunch
+"13/12/24,10:00:00",409.56,Food,Movie
+"13/12/24,10:00:00",394.09,Food,Electricity bill
+"14/12/24,10:00:00",160.15,Misc,Gift
+"14/12/24,10:00:00",411.05,Transport,Doctor visit
+"14/12/24,10:00:00",64.1,Utilities,Books
+"15/12/24,10:00:00",239.69,Transport,Lunch
+"15/12/24,10:00:00",97.23,Utilities,Gift
+"16/12/24,10:00:00",375.43,Misc,Books
+"16/12/24,10:00:00",473.23,Entertainment,Doctor visit
+"17/12/24,10:00:00",201.72,Food,Lunch
+"17/12/24,10:00:00",301.76,Entertainment,Books
+"18/12/24,10:00:00",458.79,Health,Lunch
+"19/12/24,10:00:00",337.16,Food,Books
+"19/12/24,10:00:00",477.97,Education,Electricity bill
+"19/12/24,10:00:00",476.57,Education,Lunch
+"20/12/24,10:00:00",361.48,Transport,Electricity bill
+"21/12/24,10:00:00",295.87,Entertainment,Lunch
+"22/12/24,10:00:00",259.11,Health,Doctor visit
+"23/12/24,10:00:00",213.33,Education,Books
+"23/12/24,10:00:00",83.7,Food,Doctor visit
+"24/12/24,10:00:00",455.96,Utilities,Electricity bill
+"25/12/24,10:00:00",340.27,Food,Lunch
+"26/12/24,10:00:00",59.92,Transport,Books
+"26/12/24,10:00:00",157.76,Misc,Doctor visit
+"26/12/24,10:00:00",324.24,Education,Bus fare
+"27/12/24,10:00:00",371.46,Food,Bus fare
+"28/12/24,10:00:00",479.58,Health,Gift
+"28/12/24,10:00:00",23.07,Transport,Doctor visit
+"29/12/24,10:00:00",228.03,Utilities,Bus fare
+"29/12/24,10:00:00",299.11,Food,Electricity bill
+"30/12/24,10:00:00",303.89,Misc,Gift
+"30/12/24,10:00:00",360.6,Utilities,Electricity bill
+"30/12/24,10:00:00",454.84,Transport,Movie
+"31/12/24,10:00:00",80.56,Transport,Doctor visit
+"31/12/24,10:00:00",353.64,Utilities,Movie
+"31/12/24,10:00:00",23.84,Transport,Electricity bill
+"01/01/25,10:00:00",489.55,Misc,Doctor visit
+"01/01/25,10:00:00",216.32,Education,Books
+"01/01/25,10:00:00",127.92,Misc,Gift
+"02/01/25,10:00:00",322.86,Food,Electricity bill
+"02/01/25,10:00:00",61.92,Transport,Electricity bill
+"02/01/25,10:00:00",279.35,Education,Lunch
+"03/01/25,10:00:00",290.71,Food,Bus fare
+"03/01/25,10:00:00",289.28,Misc,Electricity bill
+"04/01/25,10:00:00",155.13,Utilities,Electricity bill
+"04/01/25,10:00:00",79.2,Health,Electricity bill
+"05/01/25,10:00:00",447.11,Health,Bus fare
+"06/01/25,10:00:00",408.81,Food,Lunch
+"07/01/25,10:00:00",430.8,Health,Books
+"08/01/25,10:00:00",311.39,Food,Gift
+"09/01/25,10:00:00",243.65,Education,Books
+"09/01/25,10:00:00",460.27,Food,Lunch
+"09/01/25,10:00:00",255.9,Utilities,Doctor visit
+"10/01/25,10:00:00",217.41,Education,Doctor visit
+"10/01/25,10:00:00",227.57,Education,Lunch
+"10/01/25,10:00:00",25.11,Transport,Lunch
+"11/01/25,10:00:00",82.55,Education,Electricity bill
+"11/01/25,10:00:00",413.69,Utilities,Gift
+"12/01/25,10:00:00",35.21,Education,Books
+"13/01/25,10:00:00",217.07,Entertainment,Books
+"13/01/25,10:00:00",261.66,Health,Gift
+"13/01/25,10:00:00",42.9,Food,Books
+"14/01/25,10:00:00",375.23,Health,Movie
+"14/01/25,10:00:00",256.08,Food,Gift
+"14/01/25,10:00:00",227.18,Utilities,Movie
+"15/01/25,10:00:00",103.02,Transport,Gift
+"16/01/25,10:00:00",21.26,Transport,Movie
+"16/01/25,10:00:00",341.12,Food,Bus fare
+"17/01/25,10:00:00",343.64,Transport,Electricity bill
+"17/01/25,10:00:00",112.59,Misc,Movie
+"17/01/25,10:00:00",241.78,Entertainment,Books
+"18/01/25,10:00:00",97.93,Misc,Bus fare
+"18/01/25,10:00:00",195.01,Transport,Lunch
+"19/01/25,10:00:00",403.37,Misc,Lunch
+"19/01/25,10:00:00",414.76,Education,Doctor visit
+"19/01/25,10:00:00",102.04,Food,Lunch
+"20/01/25,10:00:00",149.17,Entertainment,Books
+"20/01/25,10:00:00",73.51,Utilities,Doctor visit
+"20/01/25,10:00:00",323.56,Education,Lunch
+"21/01/25,10:00:00",354.84,Entertainment,Books
+"21/01/25,10:00:00",308.13,Education,Movie
+"21/01/25,10:00:00",205.87,Misc,Lunch
+"22/01/25,10:00:00",280.96,Food,Books
+"23/01/25,10:00:00",327.84,Food,Lunch
+"24/01/25,10:00:00",428.31,Entertainment,Gift
+"24/01/25,10:00:00",179.02,Entertainment,Books
+"24/01/25,10:00:00",242.89,Health,Lunch
+"25/01/25,10:00:00",89.46,Misc,Lunch
+"25/01/25,10:00:00",65.39,Entertainment,Movie
+"26/01/25,10:00:00",96.11,Health,Movie
+"26/01/25,10:00:00",24.27,Entertainment,Lunch
+"26/01/25,10:00:00",470.72,Entertainment,Books
+"27/01/25,10:00:00",247.38,Education,Books
+"27/01/25,10:00:00",459.06,Entertainment,Electricity bill
+"28/01/25,10:00:00",83.77,Transport,Bus fare
+"28/01/25,10:00:00",246.32,Entertainment,Gift
+"28/01/25,10:00:00",440.04,Food,Books
+"29/01/25,10:00:00",170.1,Health,Bus fare
+"30/01/25,10:00:00",383.19,Transport,Movie
+"31/01/25,10:00:00",20.65,Utilities,Books
+"01/02/25,10:00:00",18.85,Entertainment,Electricity bill
+"02/02/25,10:00:00",487.53,Transport,Books
+"02/02/25,10:00:00",456.16,Utilities,Gift
+"03/02/25,10:00:00",27.68,Education,Books
+"03/02/25,10:00:00",214.72,Utilities,Doctor visit
+"03/02/25,10:00:00",494.97,Transport,Electricity bill
+"04/02/25,10:00:00",87.86,Misc,Gift
+"04/02/25,10:00:00",321.68,Transport,Lunch
+"04/02/25,10:00:00",52.7,Food,Doctor visit
+"05/02/25,10:00:00",73.64,Entertainment,Books
+"06/02/25,10:00:00",265.89,Utilities,Lunch
+"07/02/25,10:00:00",158.89,Food,Books
+"08/02/25,10:00:00",218.0,Health,Electricity bill
+"08/02/25,10:00:00",163.12,Health,Electricity bill
+"09/02/25,10:00:00",232.37,Transport,Movie
+"09/02/25,10:00:00",248.1,Entertainment,Gift
+"10/02/25,10:00:00",178.06,Education,Gift
+"11/02/25,10:00:00",297.53,Health,Electricity bill
+"12/02/25,10:00:00",12.72,Transport,Lunch
+"12/02/25,10:00:00",482.21,Education,Gift
+"12/02/25,10:00:00",328.99,Education,Electricity bill
+"13/02/25,10:00:00",456.13,Misc,Bus fare
+"14/02/25,10:00:00",81.12,Food,Lunch
+"14/02/25,10:00:00",461.49,Health,Movie
+"15/02/25,10:00:00",206.03,Food,Electricity bill
+"15/02/25,10:00:00",377.73,Utilities,Gift
+"15/02/25,10:00:00",73.07,Education,Doctor visit
+"16/02/25,10:00:00",161.93,Entertainment,Doctor visit
+"17/02/25,10:00:00",116.78,Food,Gift
+"17/02/25,10:00:00",188.78,Utilities,Lunch
+"18/02/25,10:00:00",293.03,Food,Electricity bill
+"18/02/25,10:00:00",393.68,Food,Lunch
+"18/02/25,10:00:00",277.98,Food,Lunch
+"19/02/25,10:00:00",338.9,Health,Bus fare
+"20/02/25,10:00:00",461.83,Health,Movie
+"20/02/25,10:00:00",341.11,Entertainment,Lunch
+"20/02/25,10:00:00",66.98,Utilities,Electricity bill
+"21/02/25,10:00:00",187.29,Transport,Lunch
+"22/02/25,10:00:00",488.01,Entertainment,Lunch
+"22/02/25,10:00:00",169.79,Transport,Lunch
+"23/02/25,10:00:00",169.09,Food,Lunch
+"23/02/25,10:00:00",452.0,Transport,Bus fare
+"23/02/25,10:00:00",99.5,Health,Doctor visit
+"24/02/25,10:00:00",152.4,Utilities,Movie
+"24/02/25,10:00:00",283.57,Entertainment,Bus fare
+"24/02/25,10:00:00",491.66,Food,Gift
+"25/02/25,10:00:00",11.06,Food,Bus fare
+"25/02/25,10:00:00",86.82,Utilities,Lunch
+"26/02/25,10:00:00",38.83,Education,Lunch
+"26/02/25,10:00:00",22.71,Entertainment,Books
+"26/02/25,10:00:00",128.59,Misc,Books
+"27/02/25,10:00:00",487.78,Misc,Bus fare
+"28/02/25,10:00:00",18.11,Utilities,Books
+"28/02/25,10:00:00",89.02,Education,Bus fare
+"28/02/25,10:00:00",213.9,Misc,Books
+"01/03/25,10:00:00",335.52,Transport,Electricity bill
+"01/03/25,10:00:00",357.75,Transport,Gift
+"02/03/25,10:00:00",119.34,Utilities,Movie
+"02/03/25,10:00:00",232.84,Transport,Doctor visit
+"03/03/25,10:00:00",129.36,Food,Lunch
+"03/03/25,10:00:00",110.18,Utilities,Movie
+"04/03/25,10:00:00",363.76,Health,Lunch
+"04/03/25,10:00:00",261.97,Health,Doctor visit
+"04/03/25,10:00:00",85.88,Misc,Gift
+"05/03/25,10:00:00",226.45,Entertainment,Electricity bill
+"06/03/25,10:00:00",262.49,Misc,Doctor visit
+"07/03/25,10:00:00",61.55,Food,Doctor visit
+"07/03/25,10:00:00",242.84,Transport,Books
+"08/03/25,10:00:00",438.16,Education,Doctor visit
+"09/03/25,10:00:00",23.55,Misc,Lunch
+"09/03/25,10:00:00",258.3,Food,Bus fare
+"09/03/25,10:00:00",103.29,Health,Movie
+"10/03/25,10:00:00",75.49,Health,Bus fare
+"11/03/25,10:00:00",290.58,Entertainment,Movie
+"11/03/25,10:00:00",413.24,Food,Movie
+"12/03/25,10:00:00",68.06,Food,Movie
+"12/03/25,10:00:00",372.49,Food,Gift
+"12/03/25,10:00:00",490.58,Health,Electricity bill
+"13/03/25,10:00:00",191.11,Transport,Electricity bill
+"13/03/25,10:00:00",197.83,Food,Electricity bill
+"14/03/25,10:00:00",105.62,Food,Electricity bill
+"15/03/25,10:00:00",314.9,Misc,Lunch
+"16/03/25,10:00:00",238.65,Education,Lunch
+"16/03/25,10:00:00",217.51,Entertainment,Movie
+"17/03/25,10:00:00",172.28,Utilities,Electricity bill
+"18/03/25,10:00:00",13.67,Utilities,Movie
+"18/03/25,10:00:00",304.75,Misc,Bus fare
+"19/03/25,10:00:00",302.98,Entertainment,Bus fare
+"19/03/25,10:00:00",429.45,Misc,Lunch
+"20/03/25,10:00:00",341.59,Transport,Gift
+"20/03/25,10:00:00",95.22,Misc,Doctor visit
+"21/03/25,10:00:00",89.19,Entertainment,Books
+"21/03/25,10:00:00",167.48,Misc,Doctor visit
+"22/03/25,10:00:00",272.08,Health,Books
+"22/03/25,10:00:00",404.25,Utilities,Bus fare
+"22/03/25,10:00:00",350.86,Entertainment,Doctor visit
+"23/03/25,10:00:00",299.41,Education,Movie
+"23/03/25,10:00:00",162.96,Health,Movie
+"23/03/25,10:00:00",456.38,Misc,Books
+"24/03/25,10:00:00",484.76,Health,Lunch
+"24/03/25,10:00:00",37.53,Education,Electricity bill
+"25/03/25,10:00:00",59.27,Misc,Electricity bill
+"26/03/25,10:00:00",44.63,Education,Books
+"27/03/25,10:00:00",188.41,Transport,Lunch
+"28/03/25,10:00:00",12.83,Utilities,Gift
+"28/03/25,10:00:00",258.7,Utilities,Movie
+"28/03/25,10:00:00",43.66,Transport,Doctor visit
+"29/03/25,10:00:00",144.8,Utilities,Gift
+"29/03/25,10:00:00",153.88,Utilities,Bus fare
+"29/03/25,10:00:00",487.43,Misc,Electricity bill
+"30/03/25,10:00:00",333.11,Transport,Electricity bill
+"30/03/25,10:00:00",99.2,Utilities,Doctor visit
+"30/03/25,10:00:00",78.23,Utilities,Lunch
+"31/03/25,10:00:00",259.39,Food,Electricity bill
+"31/03/25,10:00:00",182.63,Entertainment,Books
+"31/03/25,10:00:00",322.85,Education,Books
+"01/04/25,10:00:00",21.66,Education,Books
+"01/04/25,10:00:00",296.44,Food,Books
+"01/04/25,10:00:00",384.03,Utilities,Books
+"02/04/25,10:00:00",167.26,Transport,Books
+"02/04/25,10:00:00",136.5,Misc,Movie
+"03/04/25,10:00:00",182.07,Misc,Bus fare
+"04/04/25,10:00:00",126.64,Food,Doctor visit
+"04/04/25,10:00:00",28.05,Food,Lunch
+"04/04/25,10:00:00",28.37,Education,Movie
+"05/04/25,10:00:00",467.96,Food,Bus fare
+"05/04/25,10:00:00",165.06,Education,Doctor visit
+"06/04/25,10:00:00",412.03,Health,Books
+"06/04/25,10:00:00",207.95,Health,Lunch
+"06/04/25,10:00:00",98.34,Food,Movie
+"07/04/25,10:00:00",115.56,Food,Gift
+"07/04/25,10:00:00",388.95,Utilities,Bus fare
+"08/04/25,10:00:00",465.44,Transport,Bus fare
+"08/04/25,10:00:00",387.7,Food,Lunch
+"09/04/25,10:00:00",244.55,Education,Gift
+"09/04/25,10:00:00",159.31,Misc,Books
+"10/04/25,10:00:00",461.76,Entertainment,Doctor visit
+"10/04/25,10:00:00",153.97,Utilities,Gift
+"11/04/25,10:00:00",360.91,Transport,Books
+"12/04/25,10:00:00",246.71,Transport,Books
+"12/04/25,10:00:00",301.11,Food,Electricity bill
+"12/04/25,10:00:00",302.92,Transport,Movie
+"13/04/25,10:00:00",303.22,Health,Bus fare
+"13/04/25,10:00:00",40.1,Food,Lunch
+"14/04/25,10:00:00",111.75,Transport,Electricity bill
+"15/04/25,10:00:00",361.53,Health,Electricity bill
+"16/04/25,10:00:00",227.05,Education,Electricity bill
+"16/04/25,10:00:00",394.08,Utilities,Doctor visit
+"16/04/25,10:00:00",68.14,Misc,Movie
+"17/04/25,10:00:00",391.27,Food,Lunch
+"17/04/25,10:00:00",44.52,Utilities,Gift
+"17/04/25,10:00:00",171.79,Transport,Lunch
+"18/04/25,10:00:00",275.45,Transport,Books
+"18/04/25,10:00:00",179.29,Misc,Movie
+"18/04/25,10:00:00",298.45,Transport,Bus fare
+"19/04/25,10:00:00",90.53,Misc,Lunch
+"19/04/25,10:00:00",55.52,Transport,Movie
+"20/04/25,10:00:00",456.17,Food,Gift
+"20/04/25,10:00:00",273.07,Transport,Movie
+"20/04/25,10:00:00",268.82,Misc,Gift
+"21/04/25,10:00:00",435.23,Education,Electricity bill
+"21/04/25,10:00:00",224.97,Education,Movie
+"22/04/25,10:00:00",336.29,Food,Movie
+"22/04/25,10:00:00",428.96,Entertainment,Movie
+"22/04/25,10:00:00",75.04,Food,Doctor visit
+"23/04/25,10:00:00",467.56,Food,Bus fare
+"23/04/25,10:00:00",433.82,Education,Doctor visit
+"24/04/25,10:00:00",48.53,Utilities,Bus fare
+"25/04/25,10:00:00",432.73,Health,Gift
+"25/04/25,10:00:00",395.79,Entertainment,Electricity bill
+"26/04/25,10:00:00",331.36,Entertainment,Doctor visit
+"27/04/25,10:00:00",327.9,Health,Doctor visit
+"27/04/25,10:00:00",451.49,Utilities,Bus fare
+"27/04/25,10:00:00",399.73,Entertainment,Movie
+"28/04/25,10:00:00",307.53,Food,Movie
+"28/04/25,10:00:00",342.03,Utilities,Books
+"28/04/25,10:00:00",170.92,Health,Lunch
+"29/04/25,10:00:00",278.04,Education,Lunch
+"29/04/25,10:00:00",194.75,Utilities,Movie
+"30/04/25,10:00:00",138.77,Misc,Lunch
+"30/04/25,10:00:00",98.41,Entertainment,Gift
+"30/04/25,10:00:00",46.15,Utilities,Bus fare
+"01/05/25,10:00:00",91.68,Utilities,Bus fare
+"01/05/25,10:00:00",45.54,Misc,Lunch
+"02/05/25,10:00:00",372.28,Transport,Lunch
+"03/05/25,10:00:00",26.94,Misc,Doctor visit
+"03/05/25,10:00:00",152.15,Misc,Gift
+"04/05/25,10:00:00",363.16,Misc,Doctor visit
+"05/05/25,10:00:00",407.55,Utilities,Doctor visit
+"05/05/25,10:00:00",436.59,Utilities,Doctor visit
+"05/05/25,10:00:00",126.96,Education,Movie
+"06/05/25,10:00:00",88.77,Utilities,Movie
+"07/05/25,10:00:00",454.09,Entertainment,Lunch
+"07/05/25,10:00:00",294.77,Health,Books
+"07/05/25,10:00:00",429.42,Transport,Doctor visit
+"08/05/25,10:00:00",443.43,Misc,Bus fare
+"08/05/25,10:00:00",151.81,Health,Electricity bill
+"08/05/25,10:00:00",461.76,Transport,Doctor visit
+"09/05/25,10:00:00",213.29,Education,Electricity bill
+"09/05/25,10:00:00",44.44,Food,Lunch
+"09/05/25,10:00:00",72.14,Entertainment,Gift
+"10/05/25,10:00:00",231.29,Education,Gift
+"10/05/25,10:00:00",482.49,Transport,Bus fare
+"10/05/25,10:00:00",219.59,Food,Doctor visit
+"11/05/25,10:00:00",475.25,Utilities,Doctor visit
+"12/05/25,10:00:00",75.16,Entertainment,Lunch
+"12/05/25,10:00:00",361.88,Transport,Gift
+"12/05/25,10:00:00",249.97,Misc,Doctor visit
+"13/05/25,10:00:00",491.97,Misc,Lunch
+"14/05/25,10:00:00",168.06,Entertainment,Doctor visit
+"15/05/25,10:00:00",253.34,Entertainment,Lunch
+"16/05/25,10:00:00",52.3,Misc,Gift
+"16/05/25,10:00:00",495.8,Health,Doctor visit
+"17/05/25,10:00:00",11.06,Utilities,Movie
+"18/05/25,10:00:00",348.7,Entertainment,Doctor visit
+"19/05/25,10:00:00",108.99,Misc,Movie
+"19/05/25,10:00:00",50.63,Misc,Gift
+"20/05/25,10:00:00",316.14,Utilities,Books
+"21/05/25,10:00:00",182.49,Health,Doctor visit
+"21/05/25,10:00:00",333.18,Entertainment,Lunch
+"21/05/25,10:00:00",318.15,Transport,Movie
+"22/05/25,10:00:00",312.23,Entertainment,Bus fare
+"22/05/25,10:00:00",34.72,Utilities,Books
+"22/05/25,10:00:00",379.15,Education,Bus fare
+"23/05/25,10:00:00",331.42,Education,Electricity bill
+"23/05/25,10:00:00",256.59,Education,Movie
+"24/05/25,10:00:00",207.33,Health,Doctor visit
+"25/05/25,10:00:00",20.23,Health,Movie
+"25/05/25,10:00:00",333.91,Entertainment,Bus fare
+"26/05/25,10:00:00",276.92,Misc,Doctor visit
+"26/05/25,10:00:00",338.51,Transport,Electricity bill
+"26/05/25,10:00:00",323.04,Food,Movie
+"27/05/25,10:00:00",247.76,Food,Books
+"27/05/25,10:00:00",181.41,Misc,Doctor visit
+"28/05/25,10:00:00",315.45,Transport,Lunch
+"28/05/25,10:00:00",373.32,Health,Movie
+"28/05/25,10:00:00",98.04,Health,Books
+"29/05/25,10:00:00",184.71,Education,Lunch
+"29/05/25,10:00:00",275.29,Entertainment,Gift
+"30/05/25,10:00:00",284.28,Food,Gift
+"31/05/25,10:00:00",498.4,Transport,Movie
+"31/05/25,10:00:00",241.79,Education,Lunch
+"31/05/25,10:00:00",65.88,Education,Lunch
+"01/06/25,10:00:00",200.93,Entertainment,Gift
+"01/06/25,10:00:00",120.97,Food,Electricity bill
+"02/06/25,10:00:00",360.46,Health,Gift
+"03/06/25,10:00:00",461.28,Utilities,Electricity bill
+"03/06/25,10:00:00",68.6,Misc,Gift
+"03/06/25,10:00:00",249.92,Entertainment,Books
+"04/06/25,10:00:00",22.02,Transport,Books
+"04/06/25,10:00:00",402.14,Transport,Doctor visit
+"05/06/25,10:00:00",216.02,Utilities,Doctor visit
+"05/06/25,10:00:00",349.76,Education,Doctor visit
+"06/06/25,10:00:00",360.87,Utilities,Electricity bill
+"06/06/25,10:00:00",343.81,Health,Movie
+"07/06/25,10:00:00",460.53,Entertainment,Doctor visit
+"07/06/25,10:00:00",151.99,Misc,Books
+"08/06/25,10:00:00",186.04,Misc,Movie
+"08/06/25,10:00:00",333.0,Food,Bus fare
+"08/06/25,10:00:00",171.89,Misc,Doctor visit
+"09/06/25,10:00:00",72.55,Transport,Movie
+"09/06/25,10:00:00",139.29,Utilities,Bus fare
+"09/06/25,10:00:00",404.33,Utilities,Bus fare
+"10/06/25,10:00:00",490.18,Utilities,Bus fare
+"11/06/25,10:00:00",457.53,Food,Lunch
+"12/06/25,10:00:00",397.57,Food,Bus fare
+"12/06/25,10:00:00",477.68,Entertainment,Books
+"12/06/25,10:00:00",295.78,Transport,Books
+"13/06/25,10:00:00",236.1,Utilities,Lunch
+"13/06/25,10:00:00",280.41,Misc,Electricity bill
+"13/06/25,10:00:00",411.24,Transport,Movie
+"14/06/25,10:00:00",294.5,Food,Movie
+"15/06/25,10:00:00",381.42,Health,Books
+"16/06/25,10:00:00",193.9,Misc,Doctor visit
+"17/06/25,10:00:00",236.33,Health,Bus fare
+"18/06/25,10:00:00",198.21,Entertainment,Books
+"19/06/25,10:00:00",100.96,Food,Doctor visit
+"19/06/25,10:00:00",324.23,Misc,Doctor visit
+"19/06/25,10:00:00",253.56,Utilities,Doctor visit
+"20/06/25,10:00:00",343.72,Transport,Gift
+"21/06/25,10:00:00",123.57,Transport,Bus fare
+"22/06/25,10:00:00",27.31,Food,Gift
+"22/06/25,10:00:00",99.31,Misc,Gift
+"22/06/25,10:00:00",218.15,Entertainment,Lunch
+"23/06/25,10:00:00",409.33,Food,Electricity bill
+"23/06/25,10:00:00",152.67,Transport,Electricity bill
+"23/06/25,10:00:00",386.17,Transport,Movie
+"24/06/25,10:00:00",405.42,Food,Lunch
+"24/06/25,10:00:00",217.07,Misc,Movie
+"25/06/25,10:00:00",94.97,Education,Movie
+"25/06/25,10:00:00",80.29,Education,Movie
+"26/06/25,10:00:00",128.23,Utilities,Electricity bill
+"26/06/25,10:00:00",243.3,Education,Electricity bill
+"27/06/25,10:00:00",156.12,Utilities,Movie
+"28/06/25,10:00:00",486.68,Health,Lunch
+"29/06/25,10:00:00",242.26,Utilities,Books
+"29/06/25,10:00:00",197.19,Utilities,Bus fare
+"30/06/25,10:00:00",266.29,Entertainment,Books
+"30/06/25,10:00:00",469.4,Education,Lunch
+"30/06/25,10:00:00",439.21,Food,Gift
+"01/07/25,10:00:00",393.28,Misc,Lunch
+"01/07/25,10:00:00",60.73,Entertainment,Books
+"01/07/25,10:00:00",183.12,Health,Doctor visit
+"02/07/25,10:00:00",73.76,Education,Movie
+"02/07/25,10:00:00",354.65,Entertainment,Electricity bill
+"03/07/25,10:00:00",239.62,Utilities,Movie
+"03/07/25,10:00:00",430.3,Utilities,Movie
+"04/07/25,10:00:00",179.59,Education,Books
+"05/07/25,10:00:00",348.82,Transport,Bus fare
+"06/07/25,10:00:00",223.71,Transport,Doctor visit
+"06/07/25,10:00:00",35.72,Entertainment,Lunch
+"07/07/25,10:00:00",10.66,Misc,Movie
+"07/07/25,10:00:00",338.68,Transport,Bus fare
+"07/07/25,10:00:00",59.06,Education,Movie
+"08/07/25,10:00:00",473.94,Health,Bus fare
+"08/07/25,10:00:00",15.2,Education,Doctor visit
+"08/07/25,10:00:00",443.91,Education,Movie
+"09/07/25,10:00:00",370.93,Utilities,Books
+"09/07/25,10:00:00",339.94,Misc,Bus fare
+"10/07/25,10:00:00",392.34,Entertainment,Electricity bill
+"11/07/25,10:00:00",397.26,Transport,Electricity bill
+"11/07/25,10:00:00",409.29,Utilities,Books
+"12/07/25,10:00:00",333.94,Education,Gift
+"13/07/25,10:00:00",333.72,Entertainment,Doctor visit
+"13/07/25,10:00:00",467.62,Misc,Books
+"13/07/25,10:00:00",84.73,Misc,Electricity bill
+"14/07/25,10:00:00",299.15,Utilities,Doctor visit
+"14/07/25,10:00:00",454.14,Entertainment,Doctor visit
+"15/07/25,10:00:00",150.33,Food,Doctor visit
+"16/07/25,10:00:00",444.56,Health,Doctor visit
+"16/07/25,10:00:00",166.93,Food,Movie
+"17/07/25,10:00:00",223.04,Health,Doctor visit
+"18/07/25,10:00:00",213.05,Entertainment,Gift
+"18/07/25,10:00:00",72.27,Food,Books
+"19/07/25,10:00:00",60.03,Misc,Lunch
+"20/07/25,10:00:00",38.99,Food,Bus fare
+"21/07/25,10:00:00",264.9,Food,Doctor visit
+"22/07/25,10:00:00",253.46,Food,Lunch
+"22/07/25,10:00:00",391.28,Transport,Doctor visit
+"23/07/25,10:00:00",42.57,Utilities,Doctor visit
+"23/07/25,10:00:00",311.97,Misc,Gift
+"23/07/25,10:00:00",329.52,Food,Gift
+"24/07/25,10:00:00",120.8,Misc,Books
+"24/07/25,10:00:00",137.36,Entertainment,Doctor visit
+"25/07/25,10:00:00",123.29,Food,Gift
+"26/07/25,10:00:00",111.92,Food,Gift
+"27/07/25,10:00:00",43.25,Health,Lunch
+"27/07/25,10:00:00",486.96,Transport,Doctor visit
+"27/07/25,10:00:00",136.74,Entertainment,Movie
+"28/07/25,10:00:00",302.86,Utilities,Lunch
+"28/07/25,10:00:00",139.0,Utilities,Bus fare
+"28/07/25,10:00:00",486.09,Health,Movie
+"29/07/25,10:00:00",457.75,Misc,Movie
+"30/07/25,10:00:00",42.79,Entertainment,Movie
+"30/07/25,10:00:00",63.76,Education,Bus fare
+"31/07/25,10:00:00",456.8,Health,Lunch
+"01/08/25,10:00:00",348.95,Health,Gift
+"01/08/25,10:00:00",41.69,Food,Movie
+"02/08/25,10:00:00",479.63,Food,Electricity bill
+"03/08/25,10:00:00",215.94,Transport,Books
+"03/08/25,10:00:00",228.97,Health,Bus fare
+"04/08/25,10:00:00",145.35,Misc,Bus fare
+"04/08/25,10:00:00",59.84,Transport,Books
+"05/08/25,10:00:00",274.0,Food,Gift
+"06/08/25,10:00:00",37.37,Transport,Doctor visit
+"06/08/25,10:00:00",133.53,Health,Gift
+"07/08/25,10:00:00",297.28,Transport,Electricity bill
+"08/08/25,10:00:00",38.13,Food,Movie
+"08/08/25,10:00:00",223.23,Utilities,Doctor visit
+"08/08/25,10:00:00",258.67,Utilities,Gift
+"09/08/25,10:00:00",155.29,Entertainment,Books
+"09/08/25,10:00:00",120.58,Misc,Movie
+"09/08/25,10:00:00",185.48,Food,Electricity bill
+"10/08/25,10:00:00",153.62,Utilities,Movie
+"10/08/25,10:00:00",390.86,Transport,Electricity bill
+"11/08/25,10:00:00",404.06,Misc,Electricity bill
+"11/08/25,10:00:00",404.34,Transport,Bus fare
+"11/08/25,10:00:00",101.26,Misc,Electricity bill
+"12/08/25,10:00:00",411.95,Utilities,Bus fare
+"12/08/25,10:00:00",164.53,Entertainment,Lunch
+"12/08/25,10:00:00",376.12,Health,Books
+"13/08/25,10:00:00",454.84,Misc,Doctor visit
+"14/08/25,10:00:00",135.7,Food,Bus fare
+"15/08/25,10:00:00",137.35,Education,Lunch
+"15/08/25,10:00:00",134.26,Misc,Books
+"15/08/25,10:00:00",183.37,Misc,Movie
+"16/08/25,10:00:00",41.5,Misc,Doctor visit
+"16/08/25,10:00:00",397.9,Education,Movie
+"17/08/25,10:00:00",106.76,Misc,Electricity bill
+"17/08/25,10:00:00",101.68,Health,Movie
+"18/08/25,10:00:00",234.51,Education,Gift
+"18/08/25,10:00:00",467.91,Food,Lunch
+"19/08/25,10:00:00",438.26,Transport,Gift
+"19/08/25,10:00:00",104.05,Education,Bus fare
+"19/08/25,10:00:00",173.94,Education,Electricity bill
+"20/08/25,10:00:00",50.13,Transport,Doctor visit
+"21/08/25,10:00:00",289.33,Entertainment,Lunch
+"21/08/25,10:00:00",482.35,Health,Electricity bill
+"22/08/25,10:00:00",77.79,Entertainment,Lunch
+"23/08/25,10:00:00",459.4,Entertainment,Bus fare
+"23/08/25,10:00:00",38.44,Utilities,Movie
+"24/08/25,10:00:00",71.62,Education,Bus fare
+"24/08/25,10:00:00",320.29,Entertainment,Bus fare
+"25/08/25,10:00:00",163.71,Health,Books
+"26/08/25,10:00:00",82.83,Transport,Books
+"27/08/25,10:00:00",293.01,Transport,Bus fare
+"28/08/25,10:00:00",122.71,Education,Electricity bill
+"28/08/25,10:00:00",412.77,Education,Bus fare
+"28/08/25,10:00:00",24.34,Transport,Electricity bill
+"29/08/25,10:00:00",117.2,Health,Doctor visit
+"29/08/25,10:00:00",353.98,Utilities,Bus fare
+"30/08/25,10:00:00",207.31,Health,Movie
+"31/08/25,10:00:00",463.89,Transport,Doctor visit
+"31/08/25,10:00:00",96.09,Education,Doctor visit
+"01/09/25,10:00:00",273.6,Utilities,Bus fare
+"01/09/25,10:00:00",334.85,Food,Bus fare
+"01/09/25,10:00:00",53.2,Utilities,Doctor visit
+"02/09/25,10:00:00",459.21,Misc,Electricity bill
+"02/09/25,10:00:00",490.44,Entertainment,Electricity bill
+"02/09/25,10:00:00",81.14,Entertainment,Movie
+"03/09/25,10:00:00",350.26,Education,Electricity bill
+"03/09/25,10:00:00",179.52,Education,Electricity bill
+"03/09/25,10:00:00",20.87,Utilities,Books
+"04/09/25,10:00:00",79.14,Transport,Electricity bill
+"04/09/25,10:00:00",157.89,Transport,Books
+"04/09/25,10:00:00",48.0,Utilities,Movie
+"05/09/25,10:00:00",186.11,Education,Books
+"05/09/25,10:00:00",207.84,Health,Electricity bill
+"05/09/25,10:00:00",479.22,Health,Gift
+"06/09/25,10:00:00",241.77,Utilities,Lunch
+"06/09/25,10:00:00",202.29,Health,Bus fare
+"07/09/25,10:00:00",360.43,Education,Gift
+"07/09/25,10:00:00",83.05,Transport,Lunch
+"07/09/25,10:00:00",50.08,Transport,Movie
+"08/09/25,10:00:00",437.19,Health,Lunch
+"08/09/25,10:00:00",21.9,Entertainment,Bus fare
+"08/09/25,10:00:00",129.73,Transport,Books
+"09/09/25,10:00:00",97.98,Entertainment,Bus fare
+"09/09/25,10:00:00",97.59,Transport,Electricity bill
+"09/09/25,10:00:00",108.72,Transport,Gift
+"10/09/25,10:00:00",308.0,Food,Doctor visit
+"11/09/25,10:00:00",130.03,Food,Lunch
+"11/09/25,10:00:00",179.94,Transport,Books
+"12/09/25,10:00:00",269.34,Food,Gift
+"12/09/25,10:00:00",146.69,Utilities,Electricity bill
+"13/09/25,10:00:00",380.37,Utilities,Bus fare
+"13/09/25,10:00:00",242.77,Education,Doctor visit
+"14/09/25,10:00:00",63.8,Entertainment,Gift
+"14/09/25,10:00:00",481.71,Food,Gift
+"15/09/25,10:00:00",434.25,Entertainment,Books
+"15/09/25,10:00:00",225.51,Misc,Electricity bill
+"16/09/25,10:00:00",53.28,Misc,Movie
+"16/09/25,10:00:00",456.91,Food,Lunch
+"17/09/25,10:00:00",380.42,Utilities,Movie
+"18/09/25,10:00:00",198.19,Education,Gift
+"19/09/25,10:00:00",49.83,Misc,Doctor visit
+"19/09/25,10:00:00",284.42,Education,Doctor visit
+"19/09/25,10:00:00",224.62,Health,Gift
+"20/09/25,10:00:00",299.86,Entertainment,Doctor visit
+"21/09/25,10:00:00",17.81,Utilities,Lunch
+"22/09/25,10:00:00",20.78,Utilities,Electricity bill
+"23/09/25,10:00:00",159.03,Transport,Movie
+"23/09/25,10:00:00",388.38,Food,Doctor visit
+"23/09/25,10:00:00",192.34,Food,Books
+"24/09/25,10:00:00",14.61,Health,Bus fare
+"24/09/25,10:00:00",465.41,Entertainment,Electricity bill
+"25/09/25,10:00:00",228.07,Education,Doctor visit
+"25/09/25,10:00:00",413.76,Transport,Books
+"26/09/25,10:00:00",333.37,Misc,Bus fare
+"26/09/25,10:00:00",417.04,Food,Electricity bill
+"27/09/25,10:00:00",315.43,Entertainment,Bus fare
+"27/09/25,10:00:00",259.22,Education,Lunch
+"27/09/25,10:00:00",181.37,Transport,Lunch
+"28/09/25,10:00:00",250.42,Transport,Electricity bill
+"28/09/25,10:00:00",328.47,Education,Lunch
+"28/09/25,10:00:00",323.63,Utilities,Lunch
+"29/09/25,10:00:00",76.4,Entertainment,Movie
+"29/09/25,10:00:00",108.17,Transport,Lunch
+"29/09/25,10:00:00",466.12,Misc,Doctor visit
+"30/09/25,10:00:00",341.85,Health,Gift
+"01/10/25,10:00:00",439.93,Utilities,Doctor visit
+"01/10/25,10:00:00",264.51,Health,Electricity bill
+"01/10/25,10:00:00",152.33,Education,Movie
+"02/10/25,10:00:00",72.37,Transport,Doctor visit
+"03/10/25,10:00:00",126.42,Misc,Gift
+"03/10/25,10:00:00",65.21,Misc,Doctor visit
+"04/10/25,10:00:00",432.02,Misc,Movie
+"05/10/25,10:00:00",108.64,Utilities,Lunch
+"05/10/25,10:00:00",489.98,Food,Bus fare
+"06/10/25,10:00:00",205.41,Utilities,Doctor visit
+"06/10/25,10:00:00",387.16,Health,Doctor visit
+"07/10/25,10:00:00",461.55,Food,Doctor visit
+"08/10/25,10:00:00",198.74,Transport,Doctor visit
+"08/10/25,10:00:00",20.25,Transport,Doctor visit
+"08/10/25,10:00:00",138.02,Health,Electricity bill
+"09/10/25,10:00:00",361.34,Entertainment,Doctor visit
+"10/10/25,10:00:00",141.54,Health,Doctor visit
+"11/10/25,10:00:00",427.84,Entertainment,Doctor visit
+"11/10/25,10:00:00",101.28,Entertainment,Doctor visit
+"11/10/25,10:00:00",98.7,Transport,Electricity bill
+"12/10/25,10:00:00",458.93,Transport,Doctor visit
+"13/10/25,10:00:00",438.5,Utilities,Gift
+"13/10/25,10:00:00",186.58,Food,Gift
+"14/10/25,10:00:00",16.46,Health,Movie
+"14/10/25,10:00:00",151.59,Utilities,Gift
+"14/10/25,10:00:00",203.15,Food,Gift
+"15/10/25,10:00:00",110.43,Education,Books
+"15/10/25,10:00:00",363.6,Food,Lunch
+"15/10/25,10:00:00",388.14,Misc,Lunch
+"16/10/25,10:00:00",495.91,Transport,Books
+"17/10/25,10:00:00",28.52,Misc,Movie
+"17/10/25,10:00:00",264.32,Utilities,Gift
+"18/10/25,10:00:00",464.74,Food,Gift
+"18/10/25,10:00:00",20.94,Entertainment,Lunch
+"18/10/25,10:00:00",347.64,Entertainment,Electricity bill
+"19/10/25,10:00:00",180.98,Misc,Gift
+"19/10/25,10:00:00",319.53,Education,Books
+"19/10/25,10:00:00",66.38,Misc,Movie
+"20/10/25,10:00:00",233.01,Health,Lunch
+"21/10/25,10:00:00",48.99,Transport,Movie
+"22/10/25,10:00:00",336.27,Education,Lunch
+"23/10/25,10:00:00",141.68,Misc,Lunch
+"23/10/25,10:00:00",23.42,Education,Books
+"23/10/25,10:00:00",239.34,Utilities,Bus fare
+"24/10/25,10:00:00",452.03,Entertainment,Movie
+"24/10/25,10:00:00",275.89,Misc,Lunch
+"25/10/25,10:00:00",365.32,Entertainment,Gift
+"25/10/25,10:00:00",386.03,Transport,Books
+"26/10/25,10:00:00",168.96,Utilities,Doctor visit
+"26/10/25,10:00:00",317.03,Transport,Bus fare
+"26/10/25,10:00:00",21.8,Misc,Electricity bill
+"27/10/25,10:00:00",178.16,Transport,Books
+"27/10/25,10:00:00",351.25,Health,Books
+"28/10/25,10:00:00",157.69,Transport,Movie
+"28/10/25,10:00:00",36.04,Entertainment,Movie
+"28/10/25,10:00:00",484.6,Health,Electricity bill
+"29/10/25,10:00:00",276.5,Entertainment,Gift
+"29/10/25,10:00:00",363.96,Entertainment,Movie
+"29/10/25,10:00:00",24.64,Food,Movie
+"30/10/25,10:00:00",475.62,Food,Movie
+"30/10/25,10:00:00",476.29,Misc,Movie
+"30/10/25,10:00:00",67.76,Utilities,Lunch
+"31/10/25,10:00:00",310.52,Health,Bus fare
+"31/10/25,10:00:00",212.85,Food,Movie
+"31/10/25,10:00:00",345.0,Entertainment,Bus fare
+"01/11/25,10:00:00",288.87,Food,Bus fare
+"02/11/25,10:00:00",164.31,Health,Electricity bill
+"02/11/25,10:00:00",299.56,Entertainment,Lunch
+"03/11/25,10:00:00",35.45,Entertainment,Gift
+"03/11/25,10:00:00",492.25,Health,Doctor visit
+"04/11/25,10:00:00",183.59,Transport,Movie
+"04/11/25,10:00:00",120.32,Education,Doctor visit
+"04/11/25,10:00:00",108.67,Misc,Movie
+"05/11/25,10:00:00",172.93,Food,Movie
+"05/11/25,10:00:00",398.2,Entertainment,Movie
+"05/11/25,10:00:00",271.18,Food,Gift
+"06/11/25,10:00:00",120.19,Misc,Bus fare
+"06/11/25,10:00:00",270.46,Transport,Books
+"07/11/25,10:00:00",123.57,Utilities,Movie
+"08/11/25,10:00:00",406.13,Entertainment,Bus fare
+"08/11/25,10:00:00",408.71,Transport,Movie
+"08/11/25,10:00:00",327.66,Misc,Lunch
+"09/11/25,10:00:00",456.1,Misc,Movie
+"09/11/25,10:00:00",378.62,Utilities,Electricity bill
+"10/11/25,10:00:00",310.42,Utilities,Books
+"10/11/25,10:00:00",244.68,Food,Lunch
+"11/11/25,10:00:00",68.6,Entertainment,Electricity bill
+"11/11/25,10:00:00",57.21,Education,Electricity bill
+"12/11/25,10:00:00",442.69,Health,Doctor visit
+"13/11/25,10:00:00",322.47,Food,Lunch
+"13/11/25,10:00:00",57.17,Entertainment,Bus fare
+"13/11/25,10:00:00",405.3,Utilities,Books
+"14/11/25,10:00:00",73.71,Education,Books
+"14/11/25,10:00:00",495.56,Transport,Lunch
+"15/11/25,10:00:00",81.21,Misc,Doctor visit
+"16/11/25,10:00:00",185.44,Education,Movie
+"17/11/25,10:00:00",347.71,Utilities,Movie
+"17/11/25,10:00:00",388.43,Health,Electricity bill
+"18/11/25,10:00:00",320.12,Misc,Electricity bill
+"18/11/25,10:00:00",172.91,Misc,Lunch
+"19/11/25,10:00:00",446.74,Transport,Books
+"20/11/25,10:00:00",29.29,Education,Doctor visit
+"21/11/25,10:00:00",288.3,Utilities,Gift
+"22/11/25,10:00:00",191.06,Health,Movie
+"22/11/25,10:00:00",257.94,Education,Bus fare
+"22/11/25,10:00:00",62.39,Food,Gift
+"23/11/25,10:00:00",343.87,Food,Doctor visit
+"24/11/25,10:00:00",240.92,Utilities,Books
+"24/11/25,10:00:00",426.77,Health,Lunch
+"24/11/25,10:00:00",318.29,Utilities,Books
+"25/11/25,10:00:00",258.31,Misc,Lunch
+"25/11/25,10:00:00",338.23,Health,Electricity bill
+"25/11/25,10:00:00",415.53,Misc,Doctor visit
+"26/11/25,10:00:00",89.68,Misc,Electricity bill
+"26/11/25,10:00:00",196.85,Transport,Gift
+"26/11/25,10:00:00",323.68,Entertainment,Bus fare
+"27/11/25,10:00:00",165.93,Education,Movie
+"28/11/25,10:00:00",254.91,Health,Doctor visit
+"28/11/25,10:00:00",110.67,Transport,Electricity bill
+"29/11/25,10:00:00",408.45,Health,Lunch
+"30/11/25,10:00:00",429.81,Entertainment,Doctor visit
+"30/11/25,10:00:00",195.54,Transport,Movie
+"30/11/25,10:00:00",143.44,Utilities,Gift
+"01/12/25,10:00:00",54.66,Transport,Lunch
+"02/12/25,10:00:00",397.38,Utilities,Electricity bill
+"02/12/25,10:00:00",331.65,Health,Gift
+"02/12/25,10:00:00",79.42,Food,Electricity bill
+"03/12/25,10:00:00",445.59,Health,Movie
+"03/12/25,10:00:00",299.69,Food,Bus fare
+"03/12/25,10:00:00",200.9,Transport,Doctor visit
+"04/12/25,10:00:00",227.29,Entertainment,Bus fare
+"05/12/25,10:00:00",109.71,Entertainment,Gift
+"06/12/25,10:00:00",477.64,Misc,Books
+"07/12/25,10:00:00",490.18,Education,Gift
+"07/12/25,10:00:00",101.8,Misc,Lunch
+"07/12/25,10:00:00",196.98,Food,Gift
+"08/12/25,10:00:00",295.87,Food,Movie
+"09/12/25,10:00:00",400.61,Utilities,Books
+"09/12/25,10:00:00",88.46,Utilities,Doctor visit
+"09/12/25,10:00:00",195.41,Entertainment,Doctor visit
+"10/12/25,10:00:00",390.0,Utilities,Lunch
+"10/12/25,10:00:00",29.01,Misc,Movie
+"11/12/25,10:00:00",471.72,Misc,Books
+"12/12/25,10:00:00",491.4,Utilities,Electricity bill
+"13/12/25,10:00:00",269.49,Food,Gift
+"13/12/25,10:00:00",497.7,Education,Doctor visit
+"13/12/25,10:00:00",333.36,Entertainment,Doctor visit
+"14/12/25,10:00:00",146.24,Utilities,Books
+"14/12/25,10:00:00",142.39,Food,Lunch
+"14/12/25,10:00:00",146.56,Education,Bus fare
+"15/12/25,10:00:00",164.9,Education,Electricity bill
+"16/12/25,10:00:00",317.9,Transport,Doctor visit
+"16/12/25,10:00:00",64.1,Food,Movie
+"16/12/25,10:00:00",22.03,Entertainment,Movie
+"17/12/25,10:00:00",324.96,Education,Electricity bill
+"17/12/25,10:00:00",411.16,Utilities,Bus fare
+"17/12/25,10:00:00",396.25,Utilities,Movie
+"18/12/25,10:00:00",18.36,Health,Bus fare
+"19/12/25,10:00:00",134.68,Education,Electricity bill
+"19/12/25,10:00:00",294.77,Health,Electricity bill
+"20/12/25,10:00:00",165.91,Utilities,Electricity bill
+"20/12/25,10:00:00",431.44,Transport,Gift
+"21/12/25,10:00:00",401.23,Transport,Doctor visit
+"21/12/25,10:00:00",346.03,Entertainment,Electricity bill
+"21/12/25,10:00:00",407.26,Transport,Electricity bill
+"22/12/25,10:00:00",360.2,Misc,Doctor visit
+"22/12/25,10:00:00",18.79,Utilities,Lunch
+"23/12/25,10:00:00",321.3,Misc,Lunch
+"24/12/25,10:00:00",444.85,Misc,Books
+"24/12/25,10:00:00",409.23,Transport,Doctor visit
+"25/12/25,10:00:00",270.56,Misc,Doctor visit
+"26/12/25,10:00:00",175.24,Utilities,Doctor visit
+"26/12/25,10:00:00",230.35,Transport,Electricity bill
+"26/12/25,10:00:00",360.27,Misc,Lunch
+"27/12/25,10:00:00",166.05,Transport,Bus fare
+"28/12/25,10:00:00",381.04,Health,Movie
+"28/12/25,10:00:00",442.8,Transport,Movie
+"28/12/25,10:00:00",401.55,Entertainment,Gift
+"29/12/25,10:00:00",207.44,Transport,Electricity bill
+"29/12/25,10:00:00",186.89,Health,Books
+"30/12/25,10:00:00",431.38,Utilities,Movie
+"31/12/25,10:00:00",147.0,Utilities,Gift
+"01/01/26,10:00:00",242.21,Health,Movie
+"01/01/26,10:00:00",475.69,Utilities,Bus fare
+"02/01/26,10:00:00",292.68,Misc,Doctor visit
+"02/01/26,10:00:00",456.4,Health,Lunch
+"02/01/26,10:00:00",341.74,Transport,Bus fare
+"03/01/26,10:00:00",23.2,Utilities,Doctor visit
+"03/01/26,10:00:00",195.18,Food,Movie
+"03/01/26,10:00:00",413.45,Transport,Electricity bill
+"04/01/26,10:00:00",145.44,Entertainment,Gift
+"04/01/26,10:00:00",454.25,Health,Lunch
+"05/01/26,10:00:00",275.13,Food,Lunch
+"05/01/26,10:00:00",368.21,Entertainment,Lunch
+"06/01/26,10:00:00",450.44,Misc,Bus fare
+"07/01/26,10:00:00",22.65,Transport,Electricity bill
+"07/01/26,10:00:00",337.38,Health,Electricity bill
+"07/01/26,10:00:00",35.25,Misc,Movie
+"08/01/26,10:00:00",54.74,Entertainment,Lunch
+"08/01/26,10:00:00",311.21,Food,Lunch
+"09/01/26,10:00:00",431.97,Utilities,Movie
+"09/01/26,10:00:00",227.02,Misc,Books
+"09/01/26,10:00:00",348.92,Health,Lunch
+"10/01/26,10:00:00",83.29,Misc,Doctor visit
+"11/01/26,10:00:00",381.8,Entertainment,Lunch
+"12/01/26,10:00:00",299.07,Health,Movie
+"12/01/26,10:00:00",251.08,Utilities,Books
+"12/01/26,10:00:00",272.69,Education,Electricity bill
+"13/01/26,10:00:00",24.02,Health,Books
+"13/01/26,10:00:00",201.2,Transport,Lunch
+"13/01/26,10:00:00",259.79,Misc,Books
+"14/01/26,10:00:00",275.23,Transport,Movie
+"14/01/26,10:00:00",266.59,Entertainment,Movie
+"14/01/26,10:00:00",71.01,Food,Movie
+"15/01/26,10:00:00",223.15,Entertainment,Bus fare
+"15/01/26,10:00:00",227.85,Entertainment,Books
+"15/01/26,10:00:00",257.03,Health,Gift
+"16/01/26,10:00:00",263.11,Food,Lunch
+"16/01/26,10:00:00",414.42,Health,Bus fare
+"17/01/26,10:00:00",242.01,Utilities,Doctor visit
+"17/01/26,10:00:00",12.26,Misc,Gift
+"17/01/26,10:00:00",452.49,Entertainment,Gift
+"18/01/26,10:00:00",283.62,Education,Movie
+"19/01/26,10:00:00",410.38,Transport,Books
+"19/01/26,10:00:00",474.5,Misc,Bus fare
+"19/01/26,10:00:00",134.32,Health,Bus fare
+"20/01/26,10:00:00",58.77,Education,Lunch
+"21/01/26,10:00:00",391.18,Health,Bus fare
+"21/01/26,10:00:00",342.1,Food,Lunch
+"21/01/26,10:00:00",380.28,Education,Electricity bill
+"22/01/26,10:00:00",176.38,Education,Doctor visit
+"22/01/26,10:00:00",333.43,Misc,Gift
+"23/01/26,10:00:00",208.12,Food,Doctor visit
+"23/01/26,10:00:00",310.18,Entertainment,Books
+"24/01/26,10:00:00",468.07,Misc,Bus fare
+"24/01/26,10:00:00",174.39,Utilities,Bus fare
+"25/01/26,10:00:00",168.48,Utilities,Electricity bill
+"26/01/26,10:00:00",245.1,Entertainment,Doctor visit
+"27/01/26,10:00:00",19.74,Transport,Electricity bill
+"27/01/26,10:00:00",53.15,Misc,Books
+"28/01/26,10:00:00",467.6,Entertainment,Doctor visit
+"28/01/26,10:00:00",230.7,Education,Lunch
+"29/01/26,10:00:00",202.13,Food,Doctor visit
+"29/01/26,10:00:00",457.34,Transport,Gift
+"29/01/26,10:00:00",107.16,Transport,Gift
+"30/01/26,10:00:00",270.96,Health,Movie
+"30/01/26,10:00:00",237.3,Transport,Doctor visit
+"30/01/26,10:00:00",48.74,Utilities,Doctor visit
+"31/01/26,10:00:00",189.41,Health,Electricity bill
+"31/01/26,10:00:00",467.56,Entertainment,Doctor visit
+"01/02/26,10:00:00",105.04,Entertainment,Books
+"02/02/26,10:00:00",60.2,Education,Gift
+"02/02/26,10:00:00",43.24,Transport,Gift
+"03/02/26,10:00:00",400.56,Misc,Gift
+"03/02/26,10:00:00",243.92,Food,Lunch
+"03/02/26,10:00:00",77.89,Transport,Gift
+"04/02/26,10:00:00",49.14,Transport,Books
+"04/02/26,10:00:00",224.52,Transport,Bus fare
+"05/02/26,10:00:00",332.84,Health,Movie
+"05/02/26,10:00:00",109.12,Misc,Doctor visit
+"06/02/26,10:00:00",299.17,Utilities,Books
+"06/02/26,10:00:00",277.11,Misc,Books
+"07/02/26,10:00:00",452.26,Utilities,Movie
+"07/02/26,10:00:00",264.63,Education,Books
+"08/02/26,10:00:00",259.42,Misc,Lunch
+"08/02/26,10:00:00",446.45,Entertainment,Books
+"09/02/26,10:00:00",228.88,Health,Movie
+"09/02/26,10:00:00",383.04,Misc,Movie
+"10/02/26,10:00:00",49.72,Education,Lunch
+"10/02/26,10:00:00",20.75,Education,Books
+"11/02/26,10:00:00",129.41,Food,Electricity bill
+"11/02/26,10:00:00",435.97,Entertainment,Bus fare
+"11/02/26,10:00:00",275.41,Entertainment,Bus fare
+"12/02/26,10:00:00",129.3,Food,Doctor visit
+"12/02/26,10:00:00",314.52,Misc,Books
+"13/02/26,10:00:00",22.61,Food,Books
+"14/02/26,10:00:00",161.33,Utilities,Gift
+"15/02/26,10:00:00",52.76,Health,Gift
+"15/02/26,10:00:00",468.42,Health,Lunch
+"16/02/26,10:00:00",27.36,Transport,Bus fare
+"16/02/26,10:00:00",365.47,Utilities,Doctor visit
+"17/02/26,10:00:00",194.0,Transport,Books
+"18/02/26,10:00:00",171.94,Health,Doctor visit
+"18/02/26,10:00:00",23.68,Misc,Doctor visit
+"18/02/26,10:00:00",264.04,Food,Books
+"19/02/26,10:00:00",472.52,Utilities,Gift
+"19/02/26,10:00:00",431.83,Misc,Lunch
+"19/02/26,10:00:00",26.33,Education,Books
+"20/02/26,10:00:00",186.51,Food,Books
+"21/02/26,10:00:00",120.62,Transport,Electricity bill
+"22/02/26,10:00:00",341.38,Food,Gift
+"22/02/26,10:00:00",338.46,Transport,Doctor visit
+"23/02/26,10:00:00",291.39,Food,Gift
+"23/02/26,10:00:00",371.31,Health,Bus fare
+"23/02/26,10:00:00",368.47,Education,Bus fare
+"24/02/26,10:00:00",15.41,Utilities,Books
+"25/02/26,10:00:00",34.58,Misc,Books
+"25/02/26,10:00:00",362.69,Food,Gift
+"26/02/26,10:00:00",200.56,Utilities,Movie
+"27/02/26,10:00:00",415.22,Misc,Movie
+"27/02/26,10:00:00",377.15,Health,Lunch
+"28/02/26,10:00:00",263.3,Transport,Electricity bill
+"28/02/26,10:00:00",244.29,Transport,Lunch
+"28/02/26,10:00:00",487.25,Utilities,Lunch
+"01/03/26,10:00:00",324.52,Misc,Books
+"02/03/26,10:00:00",117.52,Health,Bus fare
+"03/03/26,10:00:00",309.19,Entertainment,Lunch
+"03/03/26,10:00:00",380.01,Education,Bus fare
+"03/03/26,10:00:00",153.07,Education,Books
+"04/03/26,10:00:00",298.53,Health,Electricity bill
+"05/03/26,10:00:00",348.1,Utilities,Bus fare
+"05/03/26,10:00:00",447.65,Health,Gift
+"06/03/26,10:00:00",173.91,Transport,Electricity bill
+"07/03/26,10:00:00",387.99,Misc,Movie
+"08/03/26,10:00:00",472.57,Transport,Bus fare
+"08/03/26,10:00:00",271.28,Misc,Doctor visit
+"09/03/26,10:00:00",182.59,Utilities,Movie
+"10/03/26,10:00:00",23.72,Misc,Books
+"11/03/26,10:00:00",375.59,Education,Lunch
+"11/03/26,10:00:00",37.43,Misc,Bus fare
+"11/03/26,10:00:00",241.83,Transport,Lunch
+"12/03/26,10:00:00",227.78,Misc,Gift
+"13/03/26,10:00:00",198.96,Entertainment,Movie
+"13/03/26,10:00:00",413.94,Education,Books
+"14/03/26,10:00:00",202.24,Entertainment,Books
+"14/03/26,10:00:00",122.15,Entertainment,Electricity bill
+"14/03/26,10:00:00",121.73,Health,Books
+"15/03/26,10:00:00",120.63,Entertainment,Lunch
+"15/03/26,10:00:00",46.9,Misc,Gift
+"15/03/26,10:00:00",273.9,Entertainment,Gift
+"16/03/26,10:00:00",332.52,Transport,Lunch
+"17/03/26,10:00:00",147.05,Transport,Movie
+"17/03/26,10:00:00",319.31,Education,Gift
+"17/03/26,10:00:00",241.63,Misc,Books
+"18/03/26,10:00:00",461.05,Education,Books
+"19/03/26,10:00:00",24.3,Education,Movie
+"19/03/26,10:00:00",474.93,Utilities,Gift
+"19/03/26,10:00:00",250.28,Health,Books
+"20/03/26,10:00:00",95.58,Transport,Bus fare
+"20/03/26,10:00:00",136.14,Transport,Bus fare
+"20/03/26,10:00:00",101.35,Entertainment,Movie
+"21/03/26,10:00:00",386.79,Health,Movie
+"21/03/26,10:00:00",259.26,Entertainment,Movie
+"21/03/26,10:00:00",58.5,Health,Doctor visit
+"22/03/26,10:00:00",497.25,Education,Books
+"22/03/26,10:00:00",157.52,Utilities,Bus fare
+"23/03/26,10:00:00",15.32,Transport,Bus fare
+"23/03/26,10:00:00",186.96,Entertainment,Gift
+"24/03/26,10:00:00",329.75,Education,Bus fare
+"24/03/26,10:00:00",134.48,Education,Lunch
+"24/03/26,10:00:00",78.73,Entertainment,Books
+"25/03/26,10:00:00",83.36,Health,Gift
+"26/03/26,10:00:00",168.05,Health,Bus fare
+"27/03/26,10:00:00",232.75,Entertainment,Movie
+"27/03/26,10:00:00",498.49,Misc,Books
+"27/03/26,10:00:00",487.77,Education,Gift
+"28/03/26,10:00:00",139.92,Misc,Movie
+"28/03/26,10:00:00",158.46,Health,Doctor visit
+"29/03/26,10:00:00",322.42,Health,Doctor visit
+"29/03/26,10:00:00",447.26,Food,Movie
+"30/03/26,10:00:00",486.33,Food,Lunch
+"31/03/26,10:00:00",91.33,Misc,Gift
+"31/03/26,10:00:00",115.61,Health,Movie
+"01/04/26,10:00:00",289.09,Health,Gift
+"02/04/26,10:00:00",208.52,Education,Gift
+"03/04/26,10:00:00",111.7,Utilities,Books
+"03/04/26,10:00:00",133.87,Food,Electricity bill
+"03/04/26,10:00:00",231.92,Utilities,Gift
+"04/04/26,10:00:00",98.05,Transport,Movie
+"05/04/26,10:00:00",140.51,Health,Electricity bill
+"06/04/26,10:00:00",196.35,Misc,Electricity bill
+"07/04/26,10:00:00",413.02,Education,Lunch
+"08/04/26,10:00:00",126.99,Food,Gift
+"08/04/26,10:00:00",452.63,Entertainment,Doctor visit
+"08/04/26,10:00:00",296.03,Utilities,Gift
+"09/04/26,10:00:00",326.42,Utilities,Bus fare
+"09/04/26,10:00:00",107.69,Education,Gift
+"09/04/26,10:00:00",459.4,Food,Electricity bill
+"10/04/26,10:00:00",141.19,Transport,Books
+"11/04/26,10:00:00",445.82,Utilities,Books
+"11/04/26,10:00:00",33.23,Food,Electricity bill
+"12/04/26,10:00:00",338.76,Education,Gift
+"13/04/26,10:00:00",41.15,Entertainment,Gift
+"14/04/26,10:00:00",174.69,Misc,Gift
+"14/04/26,10:00:00",357.23,Food,Books
+"15/04/26,10:00:00",94.93,Transport,Gift
+"15/04/26,10:00:00",251.97,Health,Bus fare
+"15/04/26,10:00:00",355.57,Transport,Doctor visit
+"16/04/26,10:00:00",247.82,Education,Bus fare
+"16/04/26,10:00:00",340.36,Misc,Bus fare
+"17/04/26,10:00:00",224.2,Education,Doctor visit
+"17/04/26,10:00:00",429.2,Entertainment,Movie
+"17/04/26,10:00:00",231.84,Health,Lunch
+"18/04/26,10:00:00",395.98,Food,Gift
+"18/04/26,10:00:00",314.79,Misc,Electricity bill
+"18/04/26,10:00:00",401.99,Health,Books
+"19/04/26,10:00:00",396.4,Utilities,Electricity bill
+"19/04/26,10:00:00",86.32,Education,Lunch
+"19/04/26,10:00:00",467.95,Food,Gift
+"20/04/26,10:00:00",61.56,Entertainment,Books
+"21/04/26,10:00:00",416.36,Food,Bus fare
+"22/04/26,10:00:00",126.78,Misc,Gift
+"22/04/26,10:00:00",65.54,Misc,Doctor visit
+"22/04/26,10:00:00",361.42,Food,Electricity bill
+"23/04/26,10:00:00",288.36,Food,Lunch
+"23/04/26,10:00:00",269.82,Education,Books
+"24/04/26,10:00:00",203.26,Entertainment,Movie
+"24/04/26,10:00:00",90.4,Utilities,Books
+"24/04/26,10:00:00",432.59,Food,Books
+"25/04/26,10:00:00",229.02,Utilities,Electricity bill
+"25/04/26,10:00:00",254.8,Misc,Movie
+"26/04/26,10:00:00",353.6,Transport,Books
+"26/04/26,10:00:00",217.78,Health,Gift
+"27/04/26,10:00:00",493.3,Health,Movie
+"27/04/26,10:00:00",397.13,Entertainment,Bus fare
+"27/04/26,10:00:00",441.6,Food,Lunch
