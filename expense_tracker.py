@@ -92,8 +92,8 @@ def sortByCategory():
                 for category in expensebycategory_list:
                      total={category:sum(expensebycategory_list[category] )for category in expensebycategory_list}
                      print("the total amount spent in ",category,"is",total[category])
-        categories = list(expensebycategory_list.keys())
-        totals = list(expensebycategory_list.values())
+        categories = list(total.keys())
+        totals = list(total.values())
 
         plt.figure(figsize=(10,5))
         plt.bar(categories, totals, color='mediumseagreen', edgecolor='black')
@@ -134,7 +134,7 @@ def monthTotal():
         plt.ylabel("total spend")
         plt.xticks(rotation=45)
         plt.tight_layout()
-        # plt.show()    
+        plt.show()    
 
     except FileNotFoundError:
            print("No expenses or file found yet.")
@@ -146,26 +146,34 @@ def year_total() :
              
              reader=csv.reader(file)
              next(reader,None)
+             year_unique=set()
              expensesbyyear=defaultdict(list)
-             year_in=int(input("enter year"))
              for row in reader:
                   if len(row)>=3:
                     date,amount,category,description=row 
                     year_obj=datetime.strptime(date,"%d/%m/%y,%H:%M:%S")
+                   
                     year=year_obj.strftime("%Y")
+                    year_unique.add(year)
                     expensesbyyear[year].append(float(amount))
-                    year_sorted=sorted(expensesbyyear.keys(),key=lambda m:datetime.strptime(m,"%Y"))
+                    year_sorted=sorted(year_unique)
                     total={year:sum(expensesbyyear[year]) for year in year_sorted}
+             print(f"{total}")
+             years_list=list(total.keys())
+             years_amount=list(total.values())
+             plt.figure(figsize=(10,5))
+             plt.bar(years_list,years_amount, color='mediumseagreen', edgecolor='black')
+             plt.tight_layout()
+             plt.xlabel("years")
+             plt.ylabel("months")
+             plt.xticks(rotation=45)
+             plt.show()
                     
 
-                    if year_in in expensesbyyear.items():
-                     return(print(f"the total in {year_in:%.2f} is {total[year_in]:%.2f}"))
-                     break
+                   
                          
                       
-                    else:
-                       return(print("year not present"))
-                       break
+                   
         return             
                   
 
