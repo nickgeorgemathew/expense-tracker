@@ -40,11 +40,6 @@ def get_year_input(prompt):
         except ValueError:
             print("❗ Please enter numbers only.")
 
-
-
-
-
-
 def addExpenses():
     amount = get_float_input("Enter the amount: ₹")
     category = get_nonempty_string("Enter the category for expenditure: ")
@@ -218,7 +213,7 @@ def use_match(choice):
         case "5":
             year_total()
         case "6":
-            print("👋 Exiting... Goodbye!")
+            print(" Exiting... ")
             return False  # tell main loop to stop
         case _:
             print("Invalid choice. Try again.")
